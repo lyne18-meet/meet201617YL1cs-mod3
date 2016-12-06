@@ -1,5 +1,5 @@
 #This script performs some simple tests on the UserAccount class.
-import UserAccount
+import UserAccount.UserAccount
 
 #Three things are missing from the line below - fill them in
 my_user=UserAcount(  ,  ,  )
